@@ -1,0 +1,61 @@
+reference,value,footprint,datasheet,qty
+">  C1, C17, C18",330p,Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm,~,3
+    C2,0.47u,Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm,~,1
+    C7,0.01u,Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm,~,1
+    C8,0.2u,Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm,~,1
+">  C3-C6, C9, C10",0.1u,Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm,~,6
+    C11,10uf,Capacitor_THT:CP_Radial_D6.3mm_P2.50mm,~,1
+>  C12-C16,10u,Capacitor_THT:CP_Radial_D6.3mm_P2.50mm,~,5
+    power_suplly_6V1,Conn_01x02_Female,Connector_BarrelJack:BarrelJack_Horizontal,~,1
+    in_Phase_Output1,In Phase Output,Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical,~,1
+    LED_enable1,LED enable,Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical,~,1
+    Quadratic_Output1,Quadratic Output,Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical,~,1
+    TP:_+12V1,TP - +12V,Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical,~,1
+    TP:_+5V1,TP - +5V,Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical,~,1
+    TP:_+6V1,TP - +6V,Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical,~,1
+    TP:_+9V1,TP - +9V,Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical,~,1
+    TP:_-12V1,TP - -12V,Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical,~,1
+    TP:_-9V1,TP - -9V,Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical,~,1
+    TP:_555_output1,TP - 555_output,Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical,~,1
+    TP:_AD630_out_x1,TP - AD630_out_x,Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical,~,1
+    TP:_AD630_out_y1,TP - AD630_out_y,Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical,~,1
+    TP:_amp_out1,TP - amp_out,Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical,~,1
+    TP:_clock1,TP - clock_0,Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical,~,1
+    TP:_clock_90,TP - clock_90,Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical,~,1
+    TP:_GND1,TP - GND,Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical,~,1
+    TP:_HPF_x1,TP - HPF_x,Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical,~,1
+    TP:_HPF_y1,TP - HPF_y,Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical,~,1
+    TP:_integrator_x1,TP - integrator_x,Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical,~,1
+    TP:_integrator_y1,TP - integrator_y,Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical,~,1
+    TP:_led_enable_input1,TP - led_enable_input,Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical,~,1
+    TP:_led_enable_output1,TP - led_enable_output,Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical,~,1
+    TP:_led_sensor(g)1,TP - led sensor(gnd),Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical,~,1
+    TP:_led_sensor(s)1,TP - led sensor(s),Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical,~,1
+    TP:_led_supply1,TP - led_supply,Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical,~,1
+    TP:_output_x1,TP - output_x,Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical,~,1
+    TP:_output_y1,TP - output_y,Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical,~,1
+    amp_input1,Conn_01x02_Male,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,~,1
+    J1,jumper1,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,~,1
+    J2,jumper2,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,~,1
+    J3,jumper3,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,~,1
+    jumper1,jumper1,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,~,1
+">  jumper2, jumper3",Conn_01x02_Female,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,~,2
+">  J5, J9",Conn_01x03_Female,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,~,2
+    D1,D,Diode_THT:D_DO-201_P15.24mm_Horizontal,~,1
+    U8,7402,Package_DIP:DIP-14_W7.62mm_Socket,http://www.ti.com/lit/gpn/sn7402,1
+    U5,TL084,Package_DIP:DIP-14_W7.62mm,http://www.ti.com/lit/ds/symlink/tl081.pdf,1
+    U6,74LS74,Package_DIP:DIP-14_W7.62mm,74xx/74hc_hct74.pdf,1
+">  U2, U3",AD630ARZ,Package_DIP:DIP-20_W7.62mm,https://www.analog.com/media/en/technical-documentation/data-sheets/ad630.pdf,2
+    U10,CA3140,Package_DIP:DIP-8_W7.62mm_Socket,http://www.intersil.com/content/dam/intersil/documents/ca31/ca3140-a.pdf,1
+>  Q1-Q3,2N3904,Package_TO_SOT_THT:TO-92_Inline,https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf,3
+    U4,L7805,Package_TO_SOT_THT:TO-220-3_Vertical,http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf,1
+    U7,LM7909_TO220,Package_TO_SOT_THT:TO-220-3_Vertical,http://www.fairchildsemi.com/ds/LM/LM7905.pdf,1
+    U9,L7809,Package_TO_SOT_THT:TO-220-3_Vertical,http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf,1
+">  R1, R19",50k,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P15.24mm_Horizontal,~,2
+">  R3, R21",200k,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P15.24mm_Horizontal,~,2
+">  R4, R10",4.7k,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P15.24mm_Horizontal,~,2
+">  R2, R6, R9, R12, R20, R22",100k,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P15.24mm_Horizontal,~,6
+">  R7, R13",56k,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P15.24mm_Horizontal,~,2
+">  R15, R16",2k,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P15.24mm_Horizontal,~,2
+    R17,12k,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P15.24mm_Horizontal,~,1
+"v  R5, R8, R11, R14, R18",1k,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P15.24mm_Horizontal,~,5
